@@ -1,7 +1,7 @@
 const myArr=[1,2,4,"Hello"]
 
-// for(let a in myArr){
-//     console.log(myArr[a]);
+// for(let a of myArr){
+//     console.log(a);
 // }
 
 myArr.push(6);
